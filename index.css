@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(58, 56, 56);
+}
+.img{
+    width: 300px;
+    height: 300px;
+    box-shadow: 5px 5px 5px 5px;
+    border-radius: 3px;
+}
+.card-body{
+    display: flex;
+    justify-content: center;
+}
+.card-deck{
+    margin: 10px 10px 10px 10px;
+}
+.card-header{
+    text-align: center;
+    background-color: rgb(230, 104, 125);
+    color: white;
+}
+.card-body{
+    background-color: rgba(0, 0, 255, 0.211);
+}
+.gallery{
+      color: blue;
+      
+}
+.start{
+    text-align: center;
+}
+H1{
+    color: blanchedalmond;
+    background-color: black;
+    margin-top: 5px;
+    padding-bottom: 10px;
+}
+input{
+    width: 300px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
